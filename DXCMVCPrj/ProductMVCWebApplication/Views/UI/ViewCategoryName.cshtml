@@ -1,0 +1,66 @@
+﻿@model ProductDataAcessLib.tbl_Product
+
+@{
+    ViewBag.Title = "ViewCategoryName";
+    var categoryName = ((string)ViewData["categoryName"]);
+}
+
+<h2>ViewCategoryName</h2>
+
+<div>
+    <h4>tbl_Product</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ProductId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProductId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProductName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProdDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.categoryId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.categoryId)
+        </dd>
+        <dt>
+           Category Name:
+        </dt>
+
+        <dd>
+            @categoryName
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @*@Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |*@
+    @Html.ActionLink("AddProduct", "AddProduct")
+</p>

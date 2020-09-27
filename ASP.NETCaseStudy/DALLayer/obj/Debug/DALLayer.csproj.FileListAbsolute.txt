@@ -1,0 +1,9 @@
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\DALLayer\bin\Debug\DALLayer.dll
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\DALLayer\bin\Debug\DALLayer.pdb
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\DALLayer\obj\Debug\DALLayer.csprojAssemblyReference.cache
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\DALLayer\obj\Debug\DALLayer.csproj.CoreCompileInputs.cache
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\DALLayer\obj\Debug\DALLayer.dll
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\DALLayer\obj\Debug\DALLayer.pdb
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\DALLayer\bin\Debug\EntityLayer.dll
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\DALLayer\bin\Debug\EntityLayer.pdb
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\DALLayer\obj\Debug\DALLayer.csproj.CopyComplete

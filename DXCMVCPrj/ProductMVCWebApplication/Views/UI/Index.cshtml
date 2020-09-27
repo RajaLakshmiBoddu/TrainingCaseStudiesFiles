@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@using(Html.BeginForm())
+{ 
+    <table>
+        <tr>
+            <th>@Html.Label("Product Name"):</th>
+            <td>@Html.TextBox("PName")</td>
+        </tr>
+        <tr>
+            <th>@Html.Label("Product Description"):</th>
+            <td>@Html.TextBox("Pdesc")</td>
+        </tr>
+        <tr>
+            <th>@Html.Label("Price"):</th>
+            <td>@Html.TextBox("price")</td>
+        </tr>
+    </table>
+    <input type="button" value="Add Product" />
+}
+

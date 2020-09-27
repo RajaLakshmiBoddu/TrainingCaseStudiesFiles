@@ -1,0 +1,6 @@
+C:\Users\rboddu6\source\repos\JuiceShopSystem\JuiceShopEntityLayer\bin\Debug\JuiceShopEntityLayer.dll
+C:\Users\rboddu6\source\repos\JuiceShopSystem\JuiceShopEntityLayer\bin\Debug\JuiceShopEntityLayer.pdb
+C:\Users\rboddu6\source\repos\JuiceShopSystem\JuiceShopEntityLayer\obj\Debug\JuiceShopEntityLayer.csprojAssemblyReference.cache
+C:\Users\rboddu6\source\repos\JuiceShopSystem\JuiceShopEntityLayer\obj\Debug\JuiceShopEntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\rboddu6\source\repos\JuiceShopSystem\JuiceShopEntityLayer\obj\Debug\JuiceShopEntityLayer.dll
+C:\Users\rboddu6\source\repos\JuiceShopSystem\JuiceShopEntityLayer\obj\Debug\JuiceShopEntityLayer.pdb

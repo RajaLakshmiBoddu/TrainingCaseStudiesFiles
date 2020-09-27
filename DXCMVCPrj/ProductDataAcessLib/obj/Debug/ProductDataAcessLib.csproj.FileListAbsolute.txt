@@ -1,0 +1,11 @@
+C:\DXCMVCPrj\ProductDataAcessLib\bin\Debug\ProductDataAcessLib.dll.config
+C:\DXCMVCPrj\ProductDataAcessLib\bin\Debug\ProductDataAcessLib.dll
+C:\DXCMVCPrj\ProductDataAcessLib\bin\Debug\ProductDataAcessLib.pdb
+C:\DXCMVCPrj\ProductDataAcessLib\bin\Debug\EntityFramework.dll
+C:\DXCMVCPrj\ProductDataAcessLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\DXCMVCPrj\ProductDataAcessLib\bin\Debug\EntityFramework.xml
+C:\DXCMVCPrj\ProductDataAcessLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\DXCMVCPrj\ProductDataAcessLib\obj\Debug\ProductDataAcessLib.csproj.CoreCompileInputs.cache
+C:\DXCMVCPrj\ProductDataAcessLib\obj\Debug\ProductDataAcessLib.csproj.CopyComplete
+C:\DXCMVCPrj\ProductDataAcessLib\obj\Debug\ProductDataAcessLib.dll
+C:\DXCMVCPrj\ProductDataAcessLib\obj\Debug\ProductDataAcessLib.pdb

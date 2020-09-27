@@ -1,0 +1,11 @@
+C:\Users\rboddu6\source\repos\JuiceShopSystem\JuiceShopBusinessLayer\bin\Debug\JuiceShopBusinessLayer.dll
+C:\Users\rboddu6\source\repos\JuiceShopSystem\JuiceShopBusinessLayer\bin\Debug\JuiceShopBusinessLayer.pdb
+C:\Users\rboddu6\source\repos\JuiceShopSystem\JuiceShopBusinessLayer\bin\Debug\JuiceShopDAL.dll
+C:\Users\rboddu6\source\repos\JuiceShopSystem\JuiceShopBusinessLayer\bin\Debug\JuiceShopEntityLayer.dll
+C:\Users\rboddu6\source\repos\JuiceShopSystem\JuiceShopBusinessLayer\bin\Debug\JuiceShopDAL.pdb
+C:\Users\rboddu6\source\repos\JuiceShopSystem\JuiceShopBusinessLayer\bin\Debug\JuiceShopEntityLayer.pdb
+C:\Users\rboddu6\source\repos\JuiceShopSystem\JuiceShopBusinessLayer\obj\Debug\JuiceShopBusinessLayer.csprojAssemblyReference.cache
+C:\Users\rboddu6\source\repos\JuiceShopSystem\JuiceShopBusinessLayer\obj\Debug\JuiceShopBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\rboddu6\source\repos\JuiceShopSystem\JuiceShopBusinessLayer\obj\Debug\JuiceShopBusinessLayer.csproj.CopyComplete
+C:\Users\rboddu6\source\repos\JuiceShopSystem\JuiceShopBusinessLayer\obj\Debug\JuiceShopBusinessLayer.dll
+C:\Users\rboddu6\source\repos\JuiceShopSystem\JuiceShopBusinessLayer\obj\Debug\JuiceShopBusinessLayer.pdb

@@ -1,0 +1,9 @@
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\Businesslayer\bin\Debug\Businesslayer.dll
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\Businesslayer\bin\Debug\Businesslayer.pdb
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\Businesslayer\bin\Debug\EntityLayer.dll
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\Businesslayer\bin\Debug\EntityLayer.pdb
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\Businesslayer\obj\Debug\Businesslayer.csprojAssemblyReference.cache
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\Businesslayer\obj\Debug\Businesslayer.csproj.CoreCompileInputs.cache
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\Businesslayer\obj\Debug\Businesslayer.csproj.CopyComplete
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\Businesslayer\obj\Debug\Businesslayer.dll
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\Businesslayer\obj\Debug\Businesslayer.pdb

@@ -1,0 +1,6 @@
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\Entitylayer\obj\Debug\Entitylayer.csprojAssemblyReference.cache
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\Entitylayer\obj\Debug\Entitylayer.csproj.CoreCompileInputs.cache
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\Entitylayer\bin\Debug\Entitylayer.dll
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\Entitylayer\bin\Debug\Entitylayer.pdb
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\Entitylayer\obj\Debug\Entitylayer.dll
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\Entitylayer\obj\Debug\Entitylayer.pdb

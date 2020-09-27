@@ -1,0 +1,6 @@
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\rboddu6\source\repos\ASP.NETCaseStudy\ConsoleUI\obj\Debug\ConsoleUI.pdb

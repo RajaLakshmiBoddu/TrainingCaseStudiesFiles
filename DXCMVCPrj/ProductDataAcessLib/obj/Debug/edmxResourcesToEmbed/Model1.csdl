@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DXCDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tbl_Category1">
+    <Key>
+      <PropertyRef Name="categoryId" />
+    </Key>
+    <Property Name="categoryId" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="categoryName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="tbl_Product" Relationship="Self.FK__tbl_Produ__categ__662B2B3B" FromRole="tbl_Category1" ToRole="tbl_Product" />
+  </EntityType>
+  <EntityType Name="tbl_Product">
+    <Key>
+      <PropertyRef Name="ProductId" />
+    </Key>
+    <Property Name="ProductId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="ProdDescription" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Price" Type="Int32" />
+    <Property Name="categoryId" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="tbl_Category1" Relationship="Self.FK__tbl_Produ__categ__662B2B3B" FromRole="tbl_Product" ToRole="tbl_Category1" />
+  </EntityType>
+  <Association Name="FK__tbl_Produ__categ__662B2B3B">
+    <End Role="tbl_Category1" Type="Self.tbl_Category1" Multiplicity="0..1" />
+    <End Role="tbl_Product" Type="Self.tbl_Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_Category1">
+        <PropertyRef Name="categoryId" />
+      </Principal>
+      <Dependent Role="tbl_Product">
+        <PropertyRef Name="categoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DXCDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tbl_Category1" EntityType="Self.tbl_Category1" />
+    <EntitySet Name="tbl_Product" EntityType="Self.tbl_Product" />
+    <AssociationSet Name="FK__tbl_Produ__categ__662B2B3B" Association="Self.FK__tbl_Produ__categ__662B2B3B">
+      <End Role="tbl_Category1" EntitySet="tbl_Category1" />
+      <End Role="tbl_Product" EntitySet="tbl_Product" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
